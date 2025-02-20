@@ -19,3 +19,5 @@ I logged into the AWS Management Console and navigated to the S3 service by sear
 *OUTPUT*: ![Image](https://github.com/user-attachments/assets/6a3258ad-b0bd-47af-9ae0-320274bfd677)
 
 ![Image](https://github.com/user-attachments/assets/14cd4e6c-a925-4f89-9044-7e15ae84fac7)
+
+![Image](https://github.com/user-attachments/assets/a67a3241-ba9c-47d9-a842-7a353a509f4e)
